@@ -41,7 +41,7 @@
                                     Editar
                                 </x-jet-secondary-button>
                                 <x-jet-secondary-button wire:click="openMedidas({{ $item }})">
-                                    Measures
+                                    Medidas
                                 </x-jet-secondary-button>
                                 <x-jet-danger-button wire:click="delete({{ $item }})">
                                     X
